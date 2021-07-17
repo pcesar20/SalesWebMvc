@@ -7,7 +7,6 @@ C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Sale
 C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
 C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
 C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
@@ -33,3 +32,9 @@ C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Sale
 C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Create.cshtml.g.cs
+C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Delete.cshtml.g.cs
+C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Details.cshtml.g.cs
+C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Edit.cshtml.g.cs
+C:\Users\paulo\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Index.cshtml.g.cs
