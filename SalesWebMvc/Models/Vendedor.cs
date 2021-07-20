@@ -15,6 +15,7 @@ namespace SalesWebMvc.Models
         public DateTime DataNascimento { get; set; }
 
         public Departamento Departamento{ get; set; }
+        public int DepartamentoId { get; set; }
 
         public ICollection<RegistroVendas> Vendas { get; set; } = new List<RegistroVendas>();
 
